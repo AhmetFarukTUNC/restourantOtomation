@@ -1,0 +1,17 @@
+C:\Users\Monster\source\repos\restaurant\bin\Debug\net8.0-windows\restaurant.exe
+C:\Users\Monster\source\repos\restaurant\bin\Debug\net8.0-windows\restaurant.deps.json
+C:\Users\Monster\source\repos\restaurant\bin\Debug\net8.0-windows\restaurant.runtimeconfig.json
+C:\Users\Monster\source\repos\restaurant\bin\Debug\net8.0-windows\restaurant.dll
+C:\Users\Monster\source\repos\restaurant\bin\Debug\net8.0-windows\restaurant.pdb
+C:\Users\Monster\source\repos\restaurant\obj\Debug\net8.0-windows\restaurant.frmGiris.resources
+C:\Users\Monster\source\repos\restaurant\obj\Debug\net8.0-windows\restaurant.Properties.Resources.resources
+C:\Users\Monster\source\repos\restaurant\obj\Debug\net8.0-windows\restaurant.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\restaurant\obj\Debug\net8.0-windows\restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\source\repos\restaurant\obj\Debug\net8.0-windows\restaurant.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\restaurant\obj\Debug\net8.0-windows\restaurant.AssemblyInfo.cs
+C:\Users\Monster\source\repos\restaurant\obj\Debug\net8.0-windows\restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\restaurant\obj\Debug\net8.0-windows\restaurant.dll
+C:\Users\Monster\source\repos\restaurant\obj\Debug\net8.0-windows\refint\restaurant.dll
+C:\Users\Monster\source\repos\restaurant\obj\Debug\net8.0-windows\restaurant.pdb
+C:\Users\Monster\source\repos\restaurant\obj\Debug\net8.0-windows\restaurant.genruntimeconfig.cache
+C:\Users\Monster\source\repos\restaurant\obj\Debug\net8.0-windows\ref\restaurant.dll
